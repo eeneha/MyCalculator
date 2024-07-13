@@ -48,7 +48,7 @@ input{
     display: inline-block;
     appearance: none;
     background-color: rgb(246, 244, 215);
-    color:  rgb(134, 129, 129);
+    color:  rgb(49, 48, 48);
     border-radius: 45px;
     border: none;
     cursor: pointer;
@@ -70,19 +70,16 @@ input{
     cursor: pointer;
     position: relative;
     transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
-    box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+    box-shadow: 10px  10px 5px rgba(198, 196, 196, 0.952);
 }
 
 .eqlbutton{
     background-color: rgb(238, 167, 167);
-    box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+    box-shadow: 10px  10px 5px rgba(198, 196, 196, 0.952);
 }
 
 .operator{
     background-color:  rgb(247, 213, 213);
 }
 
-@media screen and (max-width: 600px)
-{
-    
-}
+
