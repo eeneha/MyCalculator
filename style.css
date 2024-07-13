@@ -18,7 +18,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(to bottom right,rgb(240, 147, 147), rgb(137, 134, 134));
+    background-image: linear-gradient(to bottom right,rgb(255, 214, 249), rgb(251, 211, 245));
 }
  button{
     
@@ -29,13 +29,13 @@ body{
     display: inline-block;
     appearance: none;
     background-color: rgb(246, 244, 215);
-    color: black;
-    border-radius: 50px;
+    color:  black;
+    border-radius: 45px;
     border: none;
     cursor: pointer;
     position: relative;
     transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
-    box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+    box-shadow: 10px  10px 5px rgba(198, 196, 196, 0.952);
 }
 
 input{
@@ -48,13 +48,13 @@ input{
     display: inline-block;
     appearance: none;
     background-color: rgb(246, 244, 215);
-    color:  rgb(137, 134, 134);
-    border-radius: 4px;
+    color:  rgb(134, 129, 129);
+    border-radius: 45px;
     border: none;
     cursor: pointer;
     position: relative;
     transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
-    box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+    box-shadow: 10px  10px 5px rgba(198, 196, 196, 0.952);
 }
 
 .calculator{
@@ -65,7 +65,7 @@ input{
     appearance: none;
     background-color: rgb(246, 244, 215);
     color: black;
-    border-radius: 4px;
+    border-radius: 55px;
     border: none;
     cursor: pointer;
     position: relative;
