@@ -42,7 +42,7 @@ input{
     width: 320px;
     padding:24px;
     margin: 10px;
-    font-size: 40px;
+    font-size: 20px;
     text-align: right;
     font-family: 'Helvetica', 'Arial', sans-serif;
     display: inline-block;
@@ -81,5 +81,4 @@ input{
 .operator{
     background-color:  rgb(247, 213, 213);
 }
-
 
