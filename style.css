@@ -23,7 +23,7 @@ button {
   width: 60px;
   height: 60px;
   margin: 10px;
-  font-size: 1.2rem; /* Adjust font size as needed */
+  font-size: 1.2rem; 
   font-family: 'Helvetica', 'Arial', sans-serif;
   display: inline-block;
   appearance: none;
@@ -38,11 +38,11 @@ button {
 }
 
 input {
-  width: 90%; /* Use percentage for width */
-  max-width: 320px; /* Set a maximum width */
+  width: 90%; 
+  max-width: 320px;
   padding: 24px;
   margin: 10px;
-  font-size: 1.5rem; /* Adjust font size as needed */
+  font-size: 1.5rem; 
   text-align: right;
   font-family: 'Helvetica', 'Arial', sans-serif;
   display: inline-block;
@@ -77,7 +77,6 @@ input {
   background-color: rgb(247, 213, 213);
 }
 
-/* Media query for responsiveness - adjust breakpoints as needed */
 @media (max-width: 480px) {
   button {
     width: 50px; 
